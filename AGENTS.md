@@ -19,7 +19,7 @@ This repository is a broad, curated collection of high-quality open-source proje
 - Keep both README files aligned in project set, category structure, order, and language-switch links.
 - Format each entry as an original project link followed by one accurate, concise sentence.
 - Verify volatile GitHub data, maintenance status, licenses, and source links before changing an entry.
-- Prefer purpose-based categories; add a category only when it contains or will immediately contain a real entry.
+- Prefer purpose-based categories. Empty placeholders are acceptable in the initial scaffold, but fill or remove them as the collection matures.
 
 ## Checks
 
