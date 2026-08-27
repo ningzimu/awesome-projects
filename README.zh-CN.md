@@ -41,7 +41,7 @@
 
 ## 设计与创意工具
 
-_精选项目即将补充。_
+- [OpenDesign](https://github.com/nexu-io/open-design) - 本地优先、面向智能体的设计工作台，可借助编程智能体生成原型、幻灯片、图片和视频，并导出 HTML、PDF、PPTX 与 MP4。
 
 ## 开发者工具
 

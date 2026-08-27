@@ -41,7 +41,7 @@ The skill checks the live list, verifies serious candidates against their origin
 
 ## Design & Creative Tools
 
-_Curated projects coming soon._
+- [OpenDesign](https://github.com/nexu-io/open-design) - A local-first, agent-native design workspace for creating prototypes, decks, images, and videos with coding agents, with export to HTML, PDF, PPTX, and MP4.
 
 ## Developer Tools
 
