@@ -34,6 +34,11 @@
 ## 图标与视觉素材
 
 - **[lucide-icons/lucide](https://github.com/lucide-icons/lucide)** — 由社区维护、风格统一的图标工具包，并为多种常用平台和框架提供软件包与集成。
+- **[lobehub/lobe-icons](https://github.com/lobehub/lobe-icons)** — AI 与大模型品牌图标库，提供 SVG、PNG、WebP 资源及 React、React Native 软件包。
+- **[homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)** — 面向仪表盘和应用目录的服务与应用图标库，提供 SVG、PNG 和 WebP 格式。
+- **[pheralb/svgl](https://github.com/pheralb/svgl)** — 可搜索的 SVG 品牌标志库，提供彩色、浅色与深色变体及 API。
+- **[simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)** — 常见品牌的单色 SVG 图标合集，附带品牌颜色和来源信息。
+- **[lige47/lige_icon](https://github.com/lige47/lige_icon)** — 公开的应用与服务图标合集，包含国内应用及代理客户端适用的多种样式；仓库未声明明确许可证。
 
 ## 录屏与产品演示
 

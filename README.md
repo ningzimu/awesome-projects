@@ -34,6 +34,11 @@ The skill checks the live list, verifies serious candidates against their origin
 ## Icons & Visual Assets
 
 - **[lucide-icons/lucide](https://github.com/lucide-icons/lucide)** — A community-built, consistent icon toolkit with packages and integrations for popular platforms and frameworks.
+- **[lobehub/lobe-icons](https://github.com/lobehub/lobe-icons)** — A collection of AI and LLM brand logos available as SVG, PNG and WebP, with React and React Native packages.
+- **[homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)** — A collection of service and application icons in SVG, PNG and WebP for dashboards and app directories.
+- **[pheralb/svgl](https://github.com/pheralb/svgl)** — A searchable library of SVG brand logos with colorful, light and dark variants and an API.
+- **[simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)** — A collection of monochrome SVG icons for popular brands, with brand colors and source references.
+- **[lige47/lige_icon](https://github.com/lige47/lige_icon)** — A public collection of application and service icons, including Chinese apps and variants for proxy clients; no explicit repository license is declared.
 
 ## Screen Recording & Demo
 
