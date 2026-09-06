@@ -34,6 +34,8 @@
 ## 图标与视觉素材
 
 - **[lucide-icons/lucide](https://github.com/lucide-icons/lucide)** — 由社区维护、风格统一的图标工具包，并为多种常用平台和框架提供软件包与集成。
+- **[phosphor-icons/homepage](https://github.com/phosphor-icons/homepage)** — 采用 MIT 许可证的灵活图标家族，提供六种粗细及面向 Web、React、Vue、Flutter、SwiftUI 等平台的软件包。
+- **[Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon)** — 中性风格的 UI 图标系统，提供线框与填充样式以及 Web、React、Vue 和 Figma 集成；图标素材采用自定义的 Remix Icon License v1.0。
 - **[lobehub/lobe-icons](https://github.com/lobehub/lobe-icons)** — AI 与大模型品牌图标库，提供 SVG、PNG、WebP 资源及 React、React Native 软件包。
 - **[homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)** — 面向仪表盘和应用目录的服务与应用图标库，提供 SVG、PNG 和 WebP 格式。
 - **[pheralb/svgl](https://github.com/pheralb/svgl)** — 可搜索的 SVG 品牌标志库，提供彩色、浅色与深色变体及 API。

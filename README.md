@@ -34,6 +34,8 @@ The skill checks the live list, verifies serious candidates against their origin
 ## Icons & Visual Assets
 
 - **[lucide-icons/lucide](https://github.com/lucide-icons/lucide)** — A community-built, consistent icon toolkit with packages and integrations for popular platforms and frameworks.
+- **[phosphor-icons/homepage](https://github.com/phosphor-icons/homepage)** — A flexible MIT-licensed icon family with six weights and packages for web, React, Vue, Flutter, SwiftUI, and other platforms.
+- **[Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon)** — A neutral UI icon system with outlined and filled variants plus web, React, Vue, and Figma integrations; its assets use the custom Remix Icon License v1.0.
 - **[lobehub/lobe-icons](https://github.com/lobehub/lobe-icons)** — A collection of AI and LLM brand logos available as SVG, PNG and WebP, with React and React Native packages.
 - **[homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)** — A collection of service and application icons in SVG, PNG and WebP for dashboards and app directories.
 - **[pheralb/svgl](https://github.com/pheralb/svgl)** — A searchable library of SVG brand logos with colorful, light and dark variants and an API.
