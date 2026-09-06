@@ -48,6 +48,14 @@
 
 - [OpenDesign](https://github.com/nexu-io/open-design) - 本地优先、面向智能体的设计工作台，可借助编程智能体生成原型、幻灯片、图片和视频，并导出 HTML、PDF、PPTX 与 MP4。
 
+### UI 组件与动效
+
+- **[Beautiful UI](https://www.beautifului.dev/)** — 面向 AI 原生产品的即取即用界面组件合集，覆盖加载、推理、审批、上下文、数据和 Agent 工作流状态。
+- **[starc007/ui-components](https://github.com/starc007/ui-components)** — 采用 MIT 许可证的 React 与 Tailwind CSS 动效组件库，基于 Motion 构建并通过 shadcn 分发。
+- **[swamimalode07/rare-ui](https://github.com/swamimalode07/rare-ui)** — 采用 MIT 许可证、风格鲜明的 React 动效组件合集，可通过 shadcn CLI 单独安装所需组件。
+- **[Jakubantalik/transitions.dev](https://github.com/Jakubantalik/transitions.dev)** — 可复用 CSS 转场的交互式合集，提供即取即用的代码片段、可安装的 Agent Skill 和实时 Refine 工具。
+- **[shadcn-ui/ui](https://github.com/shadcn-ui/ui)** — 采用 MIT 许可证的无障碍、可组合组件集合与开放代码分发平台，可用于构建自定义设计系统。
+
 ## 开发者工具
 
 _精选项目即将补充。_

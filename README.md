@@ -48,6 +48,14 @@ The skill checks the live list, verifies serious candidates against their origin
 
 - [OpenDesign](https://github.com/nexu-io/open-design) - A local-first, agent-native design workspace for creating prototypes, decks, images, and videos with coding agents, with export to HTML, PDF, PPTX, and MP4.
 
+### UI Components & Motion
+
+- **[Beautiful UI](https://www.beautifului.dev/)** — A copy-ready collection of interface primitives for AI-native products, covering loading, reasoning, approval, context, data, and agent workflow states.
+- **[starc007/ui-components](https://github.com/starc007/ui-components)** — An MIT-licensed library of animated React and Tailwind CSS components distributed through shadcn and built with Motion.
+- **[swamimalode07/rare-ui](https://github.com/swamimalode07/rare-ui)** — An MIT-licensed collection of distinctive animated React components that can be installed individually with the shadcn CLI.
+- **[Jakubantalik/transitions.dev](https://github.com/Jakubantalik/transitions.dev)** — An interactive collection of reusable CSS transitions with copy-ready snippets, an installable Agent Skill, and a live Refine tool.
+- **[shadcn-ui/ui](https://github.com/shadcn-ui/ui)** — An MIT-licensed collection of accessible, composable components and an open-code distribution platform for building custom design systems.
+
 ## Developer Tools
 
 _Curated projects coming soon._
