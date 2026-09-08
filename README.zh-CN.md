@@ -60,7 +60,7 @@
 
 ## 开发者工具
 
-_精选项目即将补充。_
+- **[software-mansion/argent](https://github.com/software-mansion/argent)** — 采用 Apache-2.0 许可证的工具包，让 AI 编程智能体通过 MCP 和 CLI 操作、调试及分析 iOS、Android、TV 和 Electron/Chromium 应用。
 
 ## 效率与自动化
 

@@ -60,7 +60,7 @@ The skill checks the live list, verifies serious candidates against their origin
 
 ## Developer Tools
 
-_Curated projects coming soon._
+- **[software-mansion/argent](https://github.com/software-mansion/argent)** — An Apache-2.0-licensed toolkit that lets AI coding agents interact with, debug, and profile iOS, Android, TV, and Electron/Chromium apps through MCP and a CLI.
 
 ## Productivity & Automation
 
