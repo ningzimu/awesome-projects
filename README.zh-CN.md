@@ -23,9 +23,6 @@
 - [录屏与产品演示](#录屏与产品演示)
 - [设计与创意工具](#设计与创意工具)
 - [开发者工具](#开发者工具)
-- [效率与自动化](#效率与自动化)
-- [内容与媒体](#内容与媒体)
-- [数据与学习](#数据与学习)
 
 ## 项目发现
 
@@ -50,6 +47,10 @@
 
 - [OpenDesign](https://github.com/nexu-io/open-design) - 本地优先、面向智能体的设计工作台，可借助编程智能体生成原型、幻灯片、图片和视频，并导出 HTML、PDF、PPTX 与 MP4。
 
+### 设计灵感
+
+- **[SEESAW](https://www.seesaw.website/)** — 每日人工精选的网页设计灵感库，支持按类别浏览，并为每个案例整理字体、标签和原站链接。
+
 ### UI 组件与动效
 
 - **[Beautiful UI](https://www.beautifului.dev/)** — 面向 AI 原生产品的即取即用界面组件合集，覆盖加载、推理、审批、上下文、数据和 Agent 工作流状态。
@@ -61,18 +62,6 @@
 ## 开发者工具
 
 - **[software-mansion/argent](https://github.com/software-mansion/argent)** — 采用 Apache-2.0 许可证的工具包，让 AI 编程智能体通过 MCP 和 CLI 操作、调试及分析 iOS、Android、TV 和 Electron/Chromium 应用。
-
-## 效率与自动化
-
-_精选项目即将补充。_
-
-## 内容与媒体
-
-_精选项目即将补充。_
-
-## 数据与学习
-
-_精选项目即将补充。_
 
 ## 收录范围
 

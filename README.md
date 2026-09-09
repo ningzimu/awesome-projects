@@ -23,9 +23,6 @@ The skill checks the live list, verifies serious candidates against their origin
 - [Screen Recording & Demo](#screen-recording--demo)
 - [Design & Creative Tools](#design--creative-tools)
 - [Developer Tools](#developer-tools)
-- [Productivity & Automation](#productivity--automation)
-- [Content & Media](#content--media)
-- [Data & Learning](#data--learning)
 
 ## Project Discovery
 
@@ -50,6 +47,10 @@ The skill checks the live list, verifies serious candidates against their origin
 
 - [OpenDesign](https://github.com/nexu-io/open-design) - A local-first, agent-native design workspace for creating prototypes, decks, images, and videos with coding agents, with export to HTML, PDF, PPTX, and MP4.
 
+### Design Inspiration
+
+- **[SEESAW](https://www.seesaw.website/)** — A hand-picked web design inspiration gallery, updated daily, with browsable categories and per-site references for fonts, tags, and original links.
+
 ### UI Components & Motion
 
 - **[Beautiful UI](https://www.beautifului.dev/)** — A copy-ready collection of interface primitives for AI-native products, covering loading, reasoning, approval, context, data, and agent workflow states.
@@ -61,18 +62,6 @@ The skill checks the live list, verifies serious candidates against their origin
 ## Developer Tools
 
 - **[software-mansion/argent](https://github.com/software-mansion/argent)** — An Apache-2.0-licensed toolkit that lets AI coding agents interact with, debug, and profile iOS, Android, TV, and Electron/Chromium apps through MCP and a CLI.
-
-## Productivity & Automation
-
-_Curated projects coming soon._
-
-## Content & Media
-
-_Curated projects coming soon._
-
-## Data & Learning
-
-_Curated projects coming soon._
 
 ## Scope
 
