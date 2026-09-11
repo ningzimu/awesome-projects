@@ -45,7 +45,14 @@ The skill checks the live list, verifies serious candidates against their origin
 
 ## Design & Creative Tools
 
+- [Aura](https://aura.build) - An AI website builder for generating and refining polished web experiences from prompts.
+- [DESIGNMD by Hyperbrowser](https://design-md.hyperbrowser.ai) - A browser-based tool that analyzes websites and turns their visual language into reusable DESIGN.md guidance for coding agents.
+- [DesignMD](https://designmd.me) - A hosted website-to-design-system extractor that produces DESIGN.md files, live HTML previews, and optional Figma imports.
+- [designmd.supply](https://github.com/context-dot-dev/designmd-supply) - An MIT-licensed app that extracts brand data, design tokens, screenshots, and page content from a public domain to generate an agent-ready DESIGN.md.
+- [Neuform](https://neuform.ai) - An AI landing-page builder for generating and remixing HTML templates and reusable DESIGN.md design systems.
 - [OpenDesign](https://github.com/nexu-io/open-design) - A local-first, agent-native design workspace for creating prototypes, decks, images, and videos with coding agents, with export to HTML, PDF, PPTX, and MP4.
+- [Refero Styles](https://styles.refero.design) - A browsable library of AI-readable design systems derived from product websites, covering colors, typography, spacing, components, and downloadable DESIGN.md guidance.
+- [TypeUI](https://github.com/bergside/typeui) - An MIT-licensed CLI and public registry for generating, updating, randomizing, and pulling reusable DESIGN.md and SKILL.md design systems, with optional paid resources.
 
 ### Design Inspiration
 

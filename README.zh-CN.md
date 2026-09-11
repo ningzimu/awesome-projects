@@ -45,7 +45,14 @@
 
 ## 设计与创意工具
 
+- [Aura](https://aura.build) - 一款 AI 网站构建工具，可通过提示词生成并持续优化精致的网页体验。
+- [Hyperbrowser DESIGNMD](https://design-md.hyperbrowser.ai) - 一款基于浏览器的网站设计分析工具，可将网页视觉语言转化为供编程智能体复用的 DESIGN.md 指南。
+- [DesignMD](https://designmd.me) - 一款托管式网站设计系统提取工具，可生成 DESIGN.md、实时 HTML 预览，并可选导入 Figma。
+- [designmd.supply](https://github.com/context-dot-dev/designmd-supply) - 一款采用 MIT 许可证的应用，可从公开域名提取品牌数据、设计令牌、截图和页面内容，并生成适合智能体使用的 DESIGN.md。
+- [Neuform](https://neuform.ai) - 一款 AI 落地页构建工具，可生成和混搭 HTML 模板，并沉淀可复用的 DESIGN.md 设计系统。
 - [OpenDesign](https://github.com/nexu-io/open-design) - 本地优先、面向智能体的设计工作台，可借助编程智能体生成原型、幻灯片、图片和视频，并导出 HTML、PDF、PPTX 与 MP4。
+- [Refero Styles](https://styles.refero.design) - 一个从真实产品网站提炼 AI 可读设计系统的浏览库，涵盖色彩、字体、间距、组件及可下载的 DESIGN.md 指南。
+- [TypeUI](https://github.com/bergside/typeui) - 一个采用 MIT 许可证的 CLI 与公开注册库，可生成、更新、随机化和拉取可复用的 DESIGN.md 与 SKILL.md 设计系统，并提供可选付费资源。
 
 ### 设计灵感
 
