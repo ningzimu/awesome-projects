@@ -28,6 +28,8 @@
 
 - **[Awesome Projects](skills/awesome-projects)** — 一个读取实时合集、回到原始仓库核验并推荐合适项目的元 Skill。
 
+- **[logicrw/awesome-jev-projects](https://github.com/logicrw/awesome-jev-projects)** — Jev 生态项目与工具目录，按用途整理应用、SDK、自动化工具和评测资源，并提供交互式浏览入口。
+
 ## 图标与视觉素材
 
 - **[lucide-icons/lucide](https://github.com/lucide-icons/lucide)** — 由社区维护、风格统一的图标工具包，并为多种常用平台和框架提供软件包与集成。

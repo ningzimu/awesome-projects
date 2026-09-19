@@ -28,6 +28,8 @@ The skill checks the live list, verifies serious candidates against their origin
 
 - **[Awesome Projects](skills/awesome-projects)** — A meta-skill that searches this live collection and verifies suitable projects against their original repositories.
 
+- **[logicrw/awesome-jev-projects](https://github.com/logicrw/awesome-jev-projects)** — A directory of Jev ecosystem projects and tools, organizing applications, SDKs, automation tools, and evaluation resources by purpose with an interactive browsing interface.
+
 ## Icons & Visual Assets
 
 - **[lucide-icons/lucide](https://github.com/lucide-icons/lucide)** — A community-built, consistent icon toolkit with packages and integrations for popular platforms and frameworks.
