@@ -72,6 +72,8 @@ The skill checks the live list, verifies serious candidates against their origin
 
 - **[software-mansion/argent](https://github.com/software-mansion/argent)** — An Apache-2.0-licensed toolkit that lets AI coding agents interact with, debug, and profile iOS, Android, TV, and Electron/Chromium apps through MCP and a CLI.
 
+- **[mattt/iMCP](https://github.com/mattt/iMCP)** — An MIT-licensed app for macOS 15.3 or later that connects calendars, contacts, reminders, messages, and other system services to AI clients through MCP with per-service and per-tool access controls; cloud AI clients may send tool results off device.
+
 ## Scope
 
 - Include useful public projects, tools, applications, libraries, datasets, and resources with clear long-term value.
