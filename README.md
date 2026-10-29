@@ -22,6 +22,7 @@ The skill checks the live list, verifies serious candidates against their origin
 - [Icons & Visual Assets](#icons--visual-assets)
 - [Screen Recording & Demo](#screen-recording--demo)
 - [Design & Creative Tools](#design--creative-tools)
+- [AI Agents & Automation](#ai-agents--automation)
 - [Developer Tools](#developer-tools)
 
 ## Project Discovery
@@ -67,6 +68,10 @@ The skill checks the live list, verifies serious candidates against their origin
 - **[swamimalode07/rare-ui](https://github.com/swamimalode07/rare-ui)** — An MIT-licensed collection of distinctive animated React components that can be installed individually with the shadcn CLI.
 - **[Jakubantalik/transitions.dev](https://github.com/Jakubantalik/transitions.dev)** — An interactive collection of reusable CSS transitions with copy-ready snippets, an installable Agent Skill, and a live Refine tool.
 - **[shadcn-ui/ui](https://github.com/shadcn-ui/ui)** — An MIT-licensed collection of accessible, composable components and an open-code distribution platform for building custom design systems.
+
+## AI Agents & Automation
+
+- **[OpenBot](https://github.com/nightly-labs/openbot)** — A local-first AI teammate workspace supporting multiple AI coding agents, independent workspaces, agent collaboration, and browser automation; licensed under PolyForm Noncommercial 1.0.0.
 
 ## Developer Tools
 
