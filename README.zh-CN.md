@@ -73,6 +73,8 @@
 
 - **[OpenBot](https://github.com/nightly-labs/openbot)** — 本地优先的 AI 助手工作台，支持多种 AI 编程代理、独立工作区、助手协作与浏览器自动化；采用 PolyForm Noncommercial 1.0.0 许可。
 
+- **[Magpie](https://github.com/yetone/magpie)** — 采用 MIT 许可证的 AI 编程助手模型与服务管理应用，通过本地网关提供协议转换和故障切换。
+
 ## 开发者工具
 
 - **[software-mansion/argent](https://github.com/software-mansion/argent)** — 采用 Apache-2.0 许可证的工具包，让 AI 编程智能体通过 MCP 和 CLI 操作、调试及分析 iOS、Android、TV 和 Electron/Chromium 应用。

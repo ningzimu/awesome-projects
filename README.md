@@ -73,6 +73,8 @@ The skill checks the live list, verifies serious candidates against their origin
 
 - **[OpenBot](https://github.com/nightly-labs/openbot)** — A local-first AI teammate workspace supporting multiple AI coding agents, independent workspaces, agent collaboration, and browser automation; licensed under PolyForm Noncommercial 1.0.0.
 
+- **[Magpie](https://github.com/yetone/magpie)** — An MIT-licensed app for managing models and providers across AI coding agents, with a local gateway for protocol translation and failover.
+
 ## Developer Tools
 
 - **[software-mansion/argent](https://github.com/software-mansion/argent)** — An Apache-2.0-licensed toolkit that lets AI coding agents interact with, debug, and profile iOS, Android, TV, and Electron/Chromium apps through MCP and a CLI.
