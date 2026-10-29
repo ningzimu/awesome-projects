@@ -22,6 +22,7 @@
 - [图标与视觉素材](#图标与视觉素材)
 - [录屏与产品演示](#录屏与产品演示)
 - [设计与创意工具](#设计与创意工具)
+- [AI 智能体与自动化](#ai-智能体与自动化)
 - [开发者工具](#开发者工具)
 
 ## 项目发现
@@ -67,6 +68,10 @@
 - **[swamimalode07/rare-ui](https://github.com/swamimalode07/rare-ui)** — 采用 MIT 许可证、风格鲜明的 React 动效组件合集，可通过 shadcn CLI 单独安装所需组件。
 - **[Jakubantalik/transitions.dev](https://github.com/Jakubantalik/transitions.dev)** — 可复用 CSS 转场的交互式合集，提供即取即用的代码片段、可安装的 Agent Skill 和实时 Refine 工具。
 - **[shadcn-ui/ui](https://github.com/shadcn-ui/ui)** — 采用 MIT 许可证的无障碍、可组合组件集合与开放代码分发平台，可用于构建自定义设计系统。
+
+## AI 智能体与自动化
+
+- **[OpenBot](https://github.com/nightly-labs/openbot)** — 本地优先的 AI 助手工作台，支持多种 AI 编程代理、独立工作区、助手协作与浏览器自动化；采用 PolyForm Noncommercial 1.0.0 许可。
 
 ## 开发者工具
 
