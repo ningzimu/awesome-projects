@@ -71,6 +71,8 @@
 
 ## AI 智能体与自动化
 
+- **[ego lite](https://github.com/citrolabs/ego-lite)** — 面向 macOS 和 Windows 的浏览器，让 AI Agent 在独立 Space 中使用已有登录态执行网页自动化，同时用户可继续浏览；仓库内容采用 MIT 许可证，浏览器本体另行免费下载。
+
 - **[OpenBot](https://github.com/nightly-labs/openbot)** — 本地优先的 AI 助手工作台，支持多种 AI 编程代理、独立工作区、助手协作与浏览器自动化；采用 PolyForm Noncommercial 1.0.0 许可。
 
 - **[Magpie](https://github.com/yetone/magpie)** — 采用 MIT 许可证的 AI 编程助手模型与服务管理应用，通过本地网关提供协议转换和故障切换。
