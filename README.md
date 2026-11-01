@@ -27,6 +27,8 @@ The skill checks the live list, verifies serious candidates against their origin
 
 ## Project Discovery
 
+- **[CI validation only](https://github.com/ningzimu/opencode-fold-tools)** — Temporary eligibility test; do not merge.
+
 - **[Awesome Projects](skills/awesome-projects)** — A meta-skill that searches this live collection and verifies suitable projects against their original repositories.
 
 - **[logicrw/awesome-jev-projects](https://github.com/logicrw/awesome-jev-projects)** — A directory of Jev ecosystem projects and tools, organizing applications, SDKs, automation tools, and evaluation resources by purpose with an interactive browsing interface.

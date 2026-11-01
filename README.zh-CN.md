@@ -27,6 +27,8 @@
 
 ## 项目发现
 
+- **[CI validation only](https://github.com/ningzimu/opencode-fold-tools)** — Temporary eligibility test; do not merge.
+
 - **[Awesome Projects](skills/awesome-projects)** — 一个读取实时合集、回到原始仓库核验并推荐合适项目的元 Skill。
 
 - **[logicrw/awesome-jev-projects](https://github.com/logicrw/awesome-jev-projects)** — Jev 生态项目与工具目录，按用途整理应用、SDK、自动化工具和评测资源，并提供交互式浏览入口。
