@@ -27,7 +27,7 @@ The skill checks the live list, verifies serious candidates against their origin
 
 ## Project Discovery
 
-- **[Awesome Projects](skills/awesome-projects)** — A meta-skill that searches this live collection and verifies suitable projects against their original repositories.
+- **[Awesome Projects](skills/awesome-projects)** — A discovery meta-skill that searches this live collection and verifies suitable projects against their original repositories.
 
 - **[logicrw/awesome-jev-projects](https://github.com/logicrw/awesome-jev-projects)** — A directory of Jev ecosystem projects and tools, organizing applications, SDKs, automation tools, and evaluation resources by purpose with an interactive browsing interface.
 
@@ -92,8 +92,6 @@ The skill checks the live list, verifies serious candidates against their origin
 - Link to the original source and describe each entry in one concise, factual sentence.
 - Keep Agent Skills in [Awesome Skills](https://github.com/ningzimu/awesome-skills) and AI presentation resources in [Awesome AI PPT](https://github.com/ningzimu/awesome-ai-ppt).
 - Treat public availability and an explicit open-source license as separate facts.
-
-- **[CI validation fixture](https://github.com/ningzimu/awesome-projects)** — Temporary low-star source used only to validate CI; do not merge.
 
 ## Contributing
 
