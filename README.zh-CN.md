@@ -71,6 +71,8 @@
 
 ## AI 智能体与自动化
 
+- **[Hermes Browser Extension](https://github.com/abundantbeing/hermes-browser-extension)** — 采用 MIT 许可证的社区浏览器扩展，将 Hermes Agent 接入浏览器侧边栏，支持网页上下文问答，并可在 Chromium 浏览器中授权控制指定标签页。
+
 - **[ego lite](https://github.com/citrolabs/ego-lite)** — 面向 macOS 和 Windows 的浏览器，让 AI Agent 在独立 Space 中使用已有登录态执行网页自动化，同时用户可继续浏览；仓库内容采用 MIT 许可证，浏览器本体另行免费下载。
 
 - **[OpenBot](https://github.com/nightly-labs/openbot)** — 本地优先的 AI 助手工作台，支持多种 AI 编程代理、独立工作区、助手协作与浏览器自动化；采用 PolyForm Noncommercial 1.0.0 许可。

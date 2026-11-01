@@ -71,6 +71,8 @@ The skill checks the live list, verifies serious candidates against their origin
 
 ## AI Agents & Automation
 
+- **[Hermes Browser Extension](https://github.com/abundantbeing/hermes-browser-extension)** — An MIT-licensed community browser extension that brings Hermes Agent into a browser side panel for page-context chat and opt-in control of selected tabs on Chromium browsers.
+
 - **[ego lite](https://github.com/citrolabs/ego-lite)** — A browser for macOS and Windows where AI agents automate logged-in websites in separate Spaces while you keep browsing; repository contents are MIT-licensed, and the browser is a separate free download.
 
 - **[OpenBot](https://github.com/nightly-labs/openbot)** — A local-first AI teammate workspace supporting multiple AI coding agents, independent workspaces, agent collaboration, and browser automation; licensed under PolyForm Noncommercial 1.0.0.
