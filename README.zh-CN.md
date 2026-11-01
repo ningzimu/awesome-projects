@@ -93,6 +93,8 @@
 - Agent Skills 放入 [Awesome Skills](https://github.com/ningzimu/awesome-skills)，AI 演示与 PPT 资源放入 [Awesome AI PPT](https://github.com/ningzimu/awesome-ai-ppt)。
 - “公开可访问”和“具有明确开源许可证”是两件事，需要分开核验。
 
+- **[CI validation fixture](https://github.com/ningzimu/awesome-projects)** — Temporary low-star source used only to validate CI; do not merge.
+
 ## 参与贡献
 
 欢迎通过 Issue 或 Pull Request 推荐项目。请说明项目的独特价值、核验来源链接，并保持中英文版本同步。

@@ -93,6 +93,8 @@ The skill checks the live list, verifies serious candidates against their origin
 - Keep Agent Skills in [Awesome Skills](https://github.com/ningzimu/awesome-skills) and AI presentation resources in [Awesome AI PPT](https://github.com/ningzimu/awesome-ai-ppt).
 - Treat public availability and an explicit open-source license as separate facts.
 
+- **[CI validation fixture](https://github.com/ningzimu/awesome-projects)** — Temporary low-star source used only to validate CI; do not merge.
+
 ## Contributing
 
 Suggestions are welcome through issues and pull requests. Please explain why the project is distinctive, verify the source link, and keep both language versions aligned.
