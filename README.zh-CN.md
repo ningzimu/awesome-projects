@@ -97,7 +97,7 @@
 
 欢迎通过 Issue 或 Pull Request 推荐项目。请说明项目的独特价值、核验来源链接，并保持中英文版本同步。
 
-提交新项目前，请阅读[贡献标准与最低 50 stars 要求](CONTRIBUTING.zh-CN.md)。
+提交新项目前，请阅读[贡献标准与最低 25 stars 要求](CONTRIBUTING.zh-CN.md)。
 
 ## 许可证
 
