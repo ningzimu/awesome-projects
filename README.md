@@ -97,7 +97,7 @@ The skill checks the live list, verifies serious candidates against their origin
 
 Suggestions are welcome through issues and pull requests. Please explain why the project is distinctive, verify the source link, and keep both language versions aligned.
 
-See [contribution standards and the 50-star minimum](CONTRIBUTING.md) before submitting a new project.
+See [contribution standards and the 25-star minimum](CONTRIBUTING.md) before submitting a new project.
 
 ## License
 
