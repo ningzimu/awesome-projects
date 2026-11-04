@@ -57,6 +57,8 @@
 - [Refero Styles](https://styles.refero.design) - 一个从真实产品网站提炼 AI 可读设计系统的浏览库，涵盖色彩、字体、间距、组件及可下载的 DESIGN.md 指南。
 - [TypeUI](https://github.com/bergside/typeui) - 一个采用 MIT 许可证的 CLI 与公开注册库，可生成、更新、随机化和拉取可复用的 DESIGN.md 与 SKILL.md 设计系统，并提供可选付费资源。
 
+- **[floorplan-3d](https://github.com/wy51ai/floorplan-3d)** — 采用 MIT 许可证的单文件户型装修设计工具，支持 2D 家具布置、同步 3D 漫游与本地方案保存；3D 依赖在线 CDN，自定义户型需修改代码数据。
+
 ### 设计灵感
 
 - **[SEESAW](https://www.seesaw.website/)** — 每日人工精选的网页设计灵感库，支持按类别浏览，并为每个案例整理字体、标签和原站链接。

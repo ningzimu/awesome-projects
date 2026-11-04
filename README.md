@@ -57,6 +57,8 @@ The skill checks the live list, verifies serious candidates against their origin
 - [Refero Styles](https://styles.refero.design) - A browsable library of AI-readable design systems derived from product websites, covering colors, typography, spacing, components, and downloadable DESIGN.md guidance.
 - [TypeUI](https://github.com/bergside/typeui) - An MIT-licensed CLI and public registry for generating, updating, randomizing, and pulling reusable DESIGN.md and SKILL.md design systems, with optional paid resources.
 
+- **[floorplan-3d](https://github.com/wy51ai/floorplan-3d)** — An MIT-licensed, single-file floor-plan design tool with 2D furniture layouts, synchronized 3D walkthroughs, and local plan storage; 3D uses an online CDN, and custom floor plans require editing code data.
+
 ### Design Inspiration
 
 - **[SEESAW](https://www.seesaw.website/)** — A hand-picked web design inspiration gallery, updated daily, with browsable categories and per-site references for fonts, tags, and original links.
