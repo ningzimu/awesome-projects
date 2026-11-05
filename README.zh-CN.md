@@ -24,6 +24,7 @@
 - [设计与创意工具](#设计与创意工具)
 - [AI 智能体与自动化](#ai-智能体与自动化)
 - [开发者工具](#开发者工具)
+- [生产力与沟通](#生产力与沟通)
 
 ## 项目发现
 
@@ -86,6 +87,10 @@
 - **[software-mansion/argent](https://github.com/software-mansion/argent)** — 采用 Apache-2.0 许可证的工具包，让 AI 编程智能体通过 MCP 和 CLI 操作、调试及分析 iOS、Android、TV 和 Electron/Chromium 应用。
 
 - **[mattt/iMCP](https://github.com/mattt/iMCP)** — 采用 MIT 许可证、适用于 macOS 15.3 及以上版本的应用，通过 MCP 将日历、联系人、提醒事项、信息等系统服务接入 AI 客户端，支持按服务与工具控制访问权限；云端 AI 客户端可能将工具结果发送至设备外。
+
+## 生产力与沟通
+
+- **[Cicada](https://github.com/wquguru/cicada)** — 采用 Apache-2.0 许可证的原生 macOS 应用，可为 Zoom、腾讯会议、飞书、YouTube 等提供实时双语字幕、通过虚拟麦克风进行的同声传译，以及 AI 会议纪要。
 
 ## 收录范围
 

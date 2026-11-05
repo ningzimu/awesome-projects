@@ -24,6 +24,7 @@ The skill checks the live list, verifies serious candidates against their origin
 - [Design & Creative Tools](#design--creative-tools)
 - [AI Agents & Automation](#ai-agents--automation)
 - [Developer Tools](#developer-tools)
+- [Productivity & Communication](#productivity--communication)
 
 ## Project Discovery
 
@@ -86,6 +87,10 @@ The skill checks the live list, verifies serious candidates against their origin
 - **[software-mansion/argent](https://github.com/software-mansion/argent)** — An Apache-2.0-licensed toolkit that lets AI coding agents interact with, debug, and profile iOS, Android, TV, and Electron/Chromium apps through MCP and a CLI.
 
 - **[mattt/iMCP](https://github.com/mattt/iMCP)** — An MIT-licensed app for macOS 15.3 or later that connects calendars, contacts, reminders, messages, and other system services to AI clients through MCP with per-service and per-tool access controls; cloud AI clients may send tool results off device.
+
+## Productivity & Communication
+
+- **[Cicada](https://github.com/wquguru/cicada)** — An Apache-2.0, native macOS app for live bilingual subtitles, real-time interpreting via a virtual microphone, and AI meeting notes across Zoom, Tencent Meeting, Feishu, YouTube, and more.
 
 ## Scope
 
