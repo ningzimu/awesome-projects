@@ -92,6 +92,8 @@
 
 - **[Cicada](https://github.com/wquguru/cicada)** — 采用 Apache-2.0 许可证的原生 macOS 应用，可为 Zoom、腾讯会议、飞书、YouTube 等提供实时双语字幕、通过虚拟麦克风进行的同声传译，以及 AI 会议纪要。
 
+- **[quiet.md](https://github.com/s1dashu/quiet-md)** — 基于 Rust/GPUI、本地优先的 Beta 笔记应用，支持 macOS（Apple Silicon）和 Windows（x64），兼容飞书 DocxXML 并支持 Markdown 导入导出；代码采用 MIT 许可，部分图标与品牌素材另有使用限制。
+
 ## 收录范围
 
 - 收录具有明确长期价值的公开项目、工具、应用、代码库、数据集与资源。
