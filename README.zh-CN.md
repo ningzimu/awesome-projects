@@ -94,6 +94,8 @@
 
 - **[quiet.md](https://github.com/s1dashu/quiet-md)** — 基于 Rust/GPUI、本地优先的 Beta 笔记应用，支持 macOS（Apple Silicon）和 Windows（x64），兼容飞书 DocxXML 并支持 Markdown 导入导出；代码采用 MIT 许可，部分图标与品牌素材另有使用限制。
 
+- **[Snug](https://github.com/zephyr4123/snug)** — 采用 MIT 许可证的 macOS 14+ UU远程伴侣，提供手机专属竖屏、窗口自适应铺满、字号放大与触控手势；需要辅助功能权限，并依赖 macOS 未公开接口。
+
 ## 收录范围
 
 - 收录具有明确长期价值的公开项目、工具、应用、代码库、数据集与资源。
