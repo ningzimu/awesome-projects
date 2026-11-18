@@ -94,6 +94,8 @@ The skill checks the live list, verifies serious candidates against their origin
 
 - **[quiet.md](https://github.com/s1dashu/quiet-md)** — A local-first, Rust/GPUI notes app in beta for macOS (Apple Silicon) and Windows (x64), with Feishu/Lark DocxXML compatibility and Markdown import/export; code is MIT-licensed, with separate terms for some icons and branding.
 
+- **[Snug](https://github.com/zephyr4123/snug)** — An MIT-licensed macOS 14+ companion for UU Remote that adds a phone-sized portrait display, fitted windows, larger text, and touch gestures; requires Accessibility permission and relies on private macOS APIs.
+
 ## Scope
 
 - Include useful public projects, tools, applications, libraries, datasets, and resources with clear long-term value.
