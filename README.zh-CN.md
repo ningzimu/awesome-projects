@@ -86,6 +86,8 @@
 
 - **[software-mansion/argent](https://github.com/software-mansion/argent)** — 采用 Apache-2.0 许可证的工具包，让 AI 编程智能体通过 MCP 和 CLI 操作、调试及分析 iOS、Android、TV 和 Electron/Chromium 应用。
 
+- **[Gemini API CLI](https://github.com/google-gemini/gemini-api-cli)** — 采用 Apache-2.0 许可证的命令行工具，供智能体和脚本通过 Gemini API 密钥调用文件分析、媒体生成及托管智能体。
+
 - **[mattt/iMCP](https://github.com/mattt/iMCP)** — 采用 MIT 许可证、适用于 macOS 15.3 及以上版本的应用，通过 MCP 将日历、联系人、提醒事项、信息等系统服务接入 AI 客户端，支持按服务与工具控制访问权限；云端 AI 客户端可能将工具结果发送至设备外。
 
 ## 生产力与沟通
