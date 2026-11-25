@@ -86,6 +86,8 @@ The skill checks the live list, verifies serious candidates against their origin
 
 - **[software-mansion/argent](https://github.com/software-mansion/argent)** — An Apache-2.0-licensed toolkit that lets AI coding agents interact with, debug, and profile iOS, Android, TV, and Electron/Chromium apps through MCP and a CLI.
 
+- **[Gemini API CLI](https://github.com/google-gemini/gemini-api-cli)** — An Apache-2.0-licensed CLI for calling the Gemini API from agents and scripts, supporting file analysis, media generation, and managed agents with a Gemini API key.
+
 - **[mattt/iMCP](https://github.com/mattt/iMCP)** — An MIT-licensed app for macOS 15.3 or later that connects calendars, contacts, reminders, messages, and other system services to AI clients through MCP with per-service and per-tool access controls; cloud AI clients may send tool results off device.
 
 ## Productivity & Communication
